@@ -14,4 +14,4 @@ The input data to this visualization is an [expression matrix](http://www.broadi
 
 # Acknowledgements
 
-This visualization was made by [Thor Wahlestedt](https://github.com/thorWahlestedt) at RIKEN in Yokohama, Japan with the aid of [Jayson Harshberger](https://github.com/Hypercubed).
+This visualization was made by [Thor Wahlestedt](https://github.com/thorWahlestedt) at RIKEN in Yokohama, Japan with the aid of [Jayson Harshbarger](https://github.com/Hypercubed).
